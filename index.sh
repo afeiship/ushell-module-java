@@ -2,7 +2,7 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
-export PATH=${JAVA_HOME}/bin:$PATH
+export JAVA_HOME=`/usr/libexec/java_home`;
+export PATH=${JAVA_HOME}/bin:$PATH;
 
 unset ROOT_PATH;
