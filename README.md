@@ -1,7 +1,10 @@
 # ushell-module-java
 > Unix like shell for java.
 
-## resources:
-+ http://guibin.iteye.com/blog/1999238
+## installation
+```shell
+npm i -S @feizheng/ushell-module-java
+```
 
-## commands:
+## resources
+- http://guibin.iteye.com/blog/1999238
