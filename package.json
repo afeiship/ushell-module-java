@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-java",
+  "name": "@jswork/ushell-module-java",
   "version": "1.0.0",
   "description": "Unix like shell for java.",
   "main": "index.sh",
@@ -8,10 +8,8 @@
     "url": "git+https://github.com/afeiship/ushell-module-java.git"
   },
   "keywords": [
-    "ushell",
     "unix",
-    "shell",
-    "ushell-module-java"
+    "java"
   ],
   "authors": [
     "feizheng <1290657123@qq.com>"
