@@ -8,18 +8,21 @@
     "url": "git+https://github.com/afeiship/ushell-module-java.git"
   },
   "keywords": [
+    "ushell",
     "unix",
-    "java"
-  ],
-  "authors": [
-    "feizheng <1290657123@qq.com>"
+    "shell",
+    "ushell-module-java"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-java/issues"
   },
   "homepage": "https://github.com/afeiship/ushell-module-java",
+  "scripts": {
+    "release": "release-it"
+  },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }

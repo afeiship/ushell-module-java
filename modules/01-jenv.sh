@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+if [[ -d "$HOME/.jenv" ]]; then
+    export PATH="$HOME/.jenv/bin:$PATH";
+    eval "$(jenv init -)";
+fi
